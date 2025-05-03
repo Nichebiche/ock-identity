@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@coinbase/onchainkit": "^0.38.5",
-    "framer-motion": "^11.10.0",
+    "framer-motion": "^11.18.2",
     "lucide": "^0.447.0",
     "lucide-react": "^0.447.0",
     "next": "^14.2.5",
